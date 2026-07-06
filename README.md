@@ -6,7 +6,6 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=40&pause=2000&color=FFFFFF&center=true&vCenter=true&width=800&height=100&lines=LuckyJie.;Building+Elegant+Systems.;Focusing+on+.NET.;Less+is+more." />
   <img alt="Header" src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=40&pause=2000&color=000000&center=true&vCenter=true&width=800&height=100&lines=LuckyJie.;Building+Elegant+Systems.;Focusing+on+.NET.;Less+is+more." />
 </picture>
 
@@ -39,25 +38,29 @@
 <br/>
 
 <picture>
-  
   <img alt="Skills" src="https://skillicons.dev/icons?i=cs,dotnet,python,ts,js,vue,react,html,css,tailwind&theme=light" />
 </picture>
 <br><br>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,rider,postman,docker&theme=light" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,rider,postman,docker&theme=light" alt="Tools" />
 <br/><br/><br/>
 
 ### Metrics
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LuckyJie3&show_icons=true&hide_border=true&theme=github_dark_dimmed&bg_color=00000000" />
-  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=LuckyJie3&show_icons=true&hide_border=true&theme=default&bg_color=00000000" width="48%" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyJie3&layout=compact&hide_border=true&theme=github_dark_dimmed&bg_color=00000000" />
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyJie3&layout=compact&hide_border=true&theme=default&bg_color=00000000" width="48%" />
-</picture>
+<!-- github-readme-stats: 6-digit hex for bg_color, not 8-digit -->
+<a href="https://github.com/LuckyJie3">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LuckyJie3&show_icons=true&hide_border=true&theme=github_dark_dimmed&bg_color=0D1117" />
+    <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=LuckyJie3&show_icons=true&hide_border=true&theme=default&bg_color=FFFFFF" width="48%" />
+  </picture>
+</a>
+<a href="https://github.com/LuckyJie3">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyJie3&layout=compact&hide_border=true&theme=github_dark_dimmed&bg_color=0D1117" />
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyJie3&layout=compact&hide_border=true&theme=default&bg_color=FFFFFF" width="48%" />
+  </picture>
+</a>
 
 <br/><br/><br/>
 
@@ -65,10 +68,15 @@
 
 </div>
 
+<!-- Streak stats - separate section, centered -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuckyJie3&theme=radical&hide_border=true" width="97%" />
+  <a href="https://github.com/LuckyJie3">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=LuckyJie3&theme=radical&hide_border=true&background=0D1117" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuckyJie3&theme=default&hide_border=true" width="97%" />
+    </picture>
+  </a>
 </div>
-
 
 <div align="center">
   <sub>写代码解决问题，而不是制造问题。 🚀</sub>
