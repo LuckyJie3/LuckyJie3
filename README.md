@@ -39,10 +39,11 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs,dotnet,ts,js,vue,react,tailwind,docker,git&theme=dark" />
-  <img alt="Skills" src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,vue,react,tailwind,docker,git&theme=light" />
+  
+  <img alt="Skills" src="https://skillicons.dev/icons?i=cs,dotnet,python,ts,js,vue,react,html,css,tailwind&theme=light" />
 </picture>
-
+<br><br>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,rider,postman,docker&theme=light" alt="Tools" />
 <br/><br/><br/>
 
 ### Metrics
