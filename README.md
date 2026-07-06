@@ -81,12 +81,7 @@
 
 <!-- Streak stats -->
 <div align="center">
-  <a href="https://github.com/LuckyJie3">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=LuckyJie3&theme=radical&hide_border=true&background=0D1117" />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuckyJie3&theme=default&hide_border=true" width="97%" />
-    </picture>
-  </a>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuckyJie3&theme=default&locale=zh_Hans&hide_border=true" width="97%" />
 </div>
 
 <div align="center">
