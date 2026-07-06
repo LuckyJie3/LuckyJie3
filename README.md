@@ -48,19 +48,22 @@
 
 <br/>
 
-<!-- github-readme-stats: 6-digit hex for bg_color, not 8-digit -->
-<a href="https://github.com/LuckyJie3">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LuckyJie3&show_icons=true&hide_border=true&theme=github_dark_dimmed&bg_color=0D1117" />
-    <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=LuckyJie3&show_icons=true&hide_border=true&theme=default&bg_color=FFFFFF" width="48%" />
-  </picture>
-</a>
-<a href="https://github.com/LuckyJie3">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyJie3&layout=compact&hide_border=true&theme=github_dark_dimmed&bg_color=0D1117" />
-    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyJie3&layout=compact&hide_border=true&theme=default&bg_color=FFFFFF" width="48%" />
-  </picture>
-</a>
+<!-- Stats badges - 可靠的社交徽章 -->
+<div>
+  <a href="https://github.com/LuckyJie3">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/stars/LuckyJie3?style=social" />
+      <img src="https://img.shields.io/github/stars/LuckyJie3?style=social&color=black" alt="Stars" />
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/LuckyJie3">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/followers/LuckyJie3?style=social" />
+      <img src="https://img.shields.io/github/followers/LuckyJie3?style=social&color=black" alt="Followers" />
+    </picture>
+  </a>
+</div>
 
 <br/><br/><br/>
 
@@ -68,7 +71,15 @@
 
 </div>
 
-<!-- Streak stats - separate section, centered -->
+<!-- Activity Graph - 贡献活动图 -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=LuckyJie3&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuckyJie3&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&area_color=000000&area_color_a=0.1" alt="Activity Graph" width="97%" />
+  </picture>
+</div>
+
+<!-- Streak stats -->
 <div align="center">
   <a href="https://github.com/LuckyJie3">
     <picture>
